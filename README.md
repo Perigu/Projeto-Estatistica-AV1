@@ -4,14 +4,15 @@ Fiquei responsável com o levantamento de dados e estatísticas das amostras de 
 
 ## Questão 1:
 ### Encontre média, desvio-padrão, mediana, Q1, Q3, mínimo e máximo dos enterococos de cada praia.
-Como visto na [resolução](https://github.com/Perigu/Projeto-Estatistica-AV1/blob/main/Q1.r) da primeira questão, os dados foram calculados e sumarizados.
+Como visto na resolução da primeira questão, os dados foram calculados e sumarizados. [Resolução](https://github.com/Perigu/Projeto-Estatistica-AV1/blob/main/Q1.r)
 
 ## Questão 2:
 ### Faça um gráfico de barras com a variável Beach, ordenando da praia com maior quantidades de amostras para a menor. Colorir gráfico com base na praia. Anotar as porcentagens no topo das barras.
 Na segunda questão, os dados foram sumarizados de maneira diferente (Considerando o total de amostras e a ordem de maior quantidade para menor, por praia) a fim de facilitar a criação do gráfico durante a implementação do ggplot. [Resolução](https://github.com/Perigu/Projeto-Estatistica-AV1/blob/main/Q2.r)
 
-![Grafico de barras](https://github.com/Perigu/Projeto-Estatistica-AV1/blob/main/Barras.png)
 > Coloquei as porcentagens dentro das barras e as deixei no eixo vertical por preferência. Se tivesse deixado no horizontal, teria que rotacionar os nomes das praias para evitar sobreposição.
+![Grafico de barras](https://github.com/Perigu/Projeto-Estatistica-AV1/blob/main/Barras.png)
+
 
 ## Questão 3:
 ### Repita a questão 2, fazendo desta vez um gráfico de pizza.
