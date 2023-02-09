@@ -28,7 +28,7 @@ Conforme o requisitado, aqui está a implementação dos mesmos dados, porém em
 
 ### Questão 4: Faça um histograma com todos os dados de Enterococos das praias da sua cidade.
 
-Histograma da incidência dos valores de Enterococcus nas amostras. Não diz muito por si só, mas facilita bastante o entendimento dos box-plots, na questão seguinte. 
+Histograma da incidência dos valores de Enterococcus nas amostras. Informa bastante sobre a distribuição dos dados e facilita o entendimento dos box-plots, na questão seguinte. 
 
 + [Resolução](https://github.com/Perigu/Projeto-Estatistica-AV1/blob/main/Q4.r)
 
